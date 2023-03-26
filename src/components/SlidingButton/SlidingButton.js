@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import resume from '../assets/subinmohans.pdf';
+import resume from "../assets/subinmohans.pdf";
 
 // const buttonVar = {
 //     hover: {
@@ -10,13 +10,15 @@ import resume from '../assets/subinmohans.pdf';
 
 const HoverButton = () => {
   return (
-    <motion.button
-      whileHover={{ backgroundColor: "white", color: "green", duration: 0.2 }}
-      transition={{ ease: "easeInOut", duration: 0.2 }}
-      className="rounded-lg border-2 border-white px-4 py-2"
-    >
-      <a href={resume} target="_blank" rel="noreferrer">Download Resume</a>
-    </motion.button>
+    <a href={resume} target="_blank" rel="noreferrer">
+      <motion.button
+        whileHover={{ backgroundColor: "white", color: "green", duration: 0.2 }}
+        transition={{ ease: "easeInOut", duration: 0.2 }}
+        className="rounded-lg border-2 border-white px-4 py-2"
+      >
+        Download Resume
+      </motion.button>
+    </a>
   );
 };
 

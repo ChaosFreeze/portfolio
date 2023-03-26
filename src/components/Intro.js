@@ -12,9 +12,11 @@ const Intro = () => {
           .<br />
           <em>Software Engineer.</em>
         </h1>
-        <button  className="rounded-lg border-2 border-green-500 px-4 py-2">
-          <a href="#about">Know More</a>
-        </button>
+        <a href="#about">
+          <button className="rounded-lg border-2 border-green-500 px-4 py-2">
+            Know More
+          </button>
+        </a>
       </div>
     </section>
   );

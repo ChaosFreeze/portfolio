@@ -10,9 +10,11 @@ const Contact = () => {
             <h3 className="text-3xl text-white">Connect With Me 📧</h3>
           </div>
           <div>
-            <button className="rounded-xl border-2 border-solid border-white px-3 py-2 text-white">
-              Call to Action
-            </button>
+            <a href="mailto:subinmohan77@gmail.com">
+              <button className="rounded-xl border-2 border-solid border-white px-3 py-2 text-white">
+                Call to Action
+              </button>
+            </a>
           </div>
         </div>
       </div>
