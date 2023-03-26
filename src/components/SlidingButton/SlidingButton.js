@@ -1,11 +1,12 @@
 import { motion } from "framer-motion";
+import resume from '../assets/subinmohans.pdf';
 
-const buttonVar = {
-    hover: {
-        backgroundColor: "white",
-        color: "green"
-    }
-};
+// const buttonVar = {
+//     hover: {
+//         backgroundColor: "white",
+//         color: "green"
+//     }
+// };
 
 const HoverButton = () => {
   return (
@@ -14,7 +15,7 @@ const HoverButton = () => {
       transition={{ ease: "easeInOut", duration: 0.2 }}
       className="rounded-lg border-2 border-white px-4 py-2"
     >
-      Download Resume
+      <a href={resume} target="_blank" rel="noreferrer">Download Resume</a>
     </motion.button>
   );
 };

@@ -1,5 +1,5 @@
-import dogVision from '../assets/dogVision.png';
-import heartDisease from '../assets/heartDiseaseClassification.png';
+import dogVision from "../assets/dogVision.png";
+import heartDisease from "../assets/heartDiseaseClassification.png";
 
 const projectList = [
   {
@@ -19,29 +19,25 @@ const projectList = [
   },
   {
     title: "Password Manager Using Tkinter",
-    description:
-      "Desktop application built using Tkinter",
+    description: "Desktop application built using Tkinter",
     sourceCode: "https://github.com/ChaosFreeze/Password-Manager",
     // img: "https://zimplefolio.netlify.app/project.0b14f8de.jpg",
   },
   {
     title: "Blog using Flask",
-    description:
-      "A blog as a dynamic web application using Flask",
+    description: "A blog as a dynamic web application using Flask",
     sourceCode: "https://github.com/ChaosFreeze/upgraded-blog",
     // img: "https://zimplefolio.netlify.app/project.0b14f8de.jpg",
   },
   {
     title: "Automated Data Entry Bot",
-    description:
-      "A bot for automating data entry",
+    description: "A bot for automating data entry",
     sourceCode: "https://github.com/ChaosFreeze/Data-Entry-Automation",
     // img: "https://zimplefolio.netlify.app/project.0b14f8de.jpg",
   },
   {
     title: "Pomodoro",
-    description:
-      "A Desktop application built using Tkinter",
+    description: "A Desktop application built using Tkinter",
     sourceCode: "https://github.com/ChaosFreeze/pomodoro-start",
     // img: "https://zimplefolio.netlify.app/project.0b14f8de.jpg",
   },
@@ -54,8 +50,7 @@ const projectList = [
   },
   {
     title: "LinkedIn Job Automator",
-    description:
-      "A bot for automating the process of applying for jobs.",
+    description: "A bot for automating the process of applying for jobs.",
     sourceCode: "https://github.com/ChaosFreeze/linkedinJobAutomationBot",
     // img: "https://zimplefolio.netlify.app/project.0b14f8de.jpg",
   },
