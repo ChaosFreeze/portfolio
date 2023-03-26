@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a658d0ff.css",
+    "main.js": "/portfolio/static/js/main.b631be35.js",
+    "static/js/787.797bf182.chunk.js": "/portfolio/static/js/787.797bf182.chunk.js",
+    "static/media/subin.jpg": "/portfolio/static/media/subin.f9b1f79fc40aa44f8a08.jpg",
+    "static/media/heartDiseaseClassification.png": "/portfolio/static/media/heartDiseaseClassification.6a5b7fbb61488c0b4114.png",
+    "index.html": "/portfolio/index.html",
+    "main.a658d0ff.css.map": "/portfolio/static/css/main.a658d0ff.css.map",
+    "main.b631be35.js.map": "/portfolio/static/js/main.b631be35.js.map",
+    "787.797bf182.chunk.js.map": "/portfolio/static/js/787.797bf182.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a658d0ff.css",
+    "static/js/main.b631be35.js"
+  ]
+}
