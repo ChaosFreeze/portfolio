@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a658d0ff.css",
-    "main.js": "/portfolio/static/js/main.a51bfb8e.js",
+    "main.js": "/portfolio/static/js/main.8cb42c70.js",
     "static/js/787.797bf182.chunk.js": "/portfolio/static/js/787.797bf182.chunk.js",
     "static/media/subinmohans.pdf": "/portfolio/static/media/subinmohans.ff17ffbd00c5636e352e.pdf",
     "static/media/subin.jpg": "/portfolio/static/media/subin.f9b1f79fc40aa44f8a08.jpg",
     "static/media/heartDiseaseClassification.png": "/portfolio/static/media/heartDiseaseClassification.6a5b7fbb61488c0b4114.png",
     "index.html": "/portfolio/index.html",
     "main.a658d0ff.css.map": "/portfolio/static/css/main.a658d0ff.css.map",
-    "main.a51bfb8e.js.map": "/portfolio/static/js/main.a51bfb8e.js.map",
+    "main.8cb42c70.js.map": "/portfolio/static/js/main.8cb42c70.js.map",
     "787.797bf182.chunk.js.map": "/portfolio/static/js/787.797bf182.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a658d0ff.css",
-    "static/js/main.a51bfb8e.js"
+    "static/js/main.8cb42c70.js"
   ]
 }
