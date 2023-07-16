@@ -1,4 +1,4 @@
-// import { motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 
 const Intro = () => {
   return (
@@ -13,9 +13,9 @@ const Intro = () => {
           <em>Software Engineer.</em>
         </h1>
         <a href="#about">
-          <button className="rounded-lg border-2 border-green-500 px-4 py-2">
+          <motion.button whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className="rounded-lg border-2 border-green-500 px-4 py-2">
             Know More
-          </button>
+          </motion.button>
         </a>
       </div>
     </section>
