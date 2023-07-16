@@ -11,13 +11,16 @@ import resume from "../assets/subinmohans.pdf";
 const HoverButton = () => {
   return (
     <a href={resume} target="_blank" rel="noreferrer">
-      <motion.button
-        whileHover={{ backgroundColor: "white", color: "green", duration: 0.2 }}
-        transition={{ ease: "easeInOut", duration: 0.2 }}
-        className="rounded-lg border-2 border-white px-4 py-2"
+      <motion.div
+        whileHover={{ left: "140%" }}
+        className="rounded-lg"
       >
-        Download Resume
-      </motion.button>
+        <motion.button
+          className="rounded-lg border-2 border-white px-4 py-2"
+        >
+          Download Resume
+        </motion.button>
+      </motion.div>
     </a>
   );
 };
