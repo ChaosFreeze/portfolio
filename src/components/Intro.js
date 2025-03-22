@@ -10,7 +10,7 @@ const Intro = () => {
             Subin Mohan S
           </span>
           .<br />
-          <em>Software Engineer.</em>
+          <em>A Software Engineer.</em>
         </h1>
         <a href="#about">
           <motion.button whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className="rounded-lg border-2 border-green-500 px-4 py-2">
