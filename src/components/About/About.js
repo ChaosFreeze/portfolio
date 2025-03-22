@@ -18,7 +18,7 @@ const About = () => {
         </div>
         <div className="flex flex-col items-center lg:items-start justify-center space-y-4">
           <p className="text-lg text-left">
-            Hi! My name is Subin. I am a Mechatronics Engineer turned Software Engineer. The capability of building things that people can use just by giving instructions, made me realize how amazing and powerful programming can be.
+            Hi! My name is Subin. I am a Mechatronics Engineer turned Software Engineer. I love Robotics, programming, and learning about everything.
           </p>
           <HoverButton />
         </div>
